@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning single-cell 'omics and machine learning.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: 
-  - email: seungchoi94@gmail.com
+  - email: jsc228@miami.edu
 
 <!---
 JamesChoi94/JamesChoi94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
