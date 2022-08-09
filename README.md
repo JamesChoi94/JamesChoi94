@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JamesChoi94
-- 🧠 I’m interested in cell biology, bioinformatics, and neuroscience.
-- 💻 I’m currently learning single-cell 'omics and machine learning.
+- 🧠 I’m interested in medicine, neuroscience, single-cell 'omics, and ML methods.
 - 🤝 I’m looking to collaborate on anything!
 - 📫 How to reach me: 
   - email: jsc228 at miami dot edu OR seungchoi94 at gmail dot com
